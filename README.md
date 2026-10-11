@@ -1,5 +1,5 @@
 ### Hi👋
-I'm Adnan, a computer science student at the University of Salzburg. 
+I'm Nada, die BESDEEEE a computer science student at the University of Salzburg. 
 
 I like to code and turn ideas into real usable software.
 
